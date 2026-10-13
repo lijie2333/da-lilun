@@ -70,7 +70,7 @@ git clone https://github.com/lijie2333/da-lilun.git ~/.claude/skills/da-lilun
 
 ## 作者
 
-李同学，AI 自媒体博主。做这个 Skill 的过程，记在小红书和抖音的「都大理论时代了，你还没有自己的理论」这期视频里。
+李同学，AI 自媒体博主。做这个 Skill 的过程，会做成一期短视频「都大理论时代了，你还没有自己的理论」。
 
 ## 许可
 
